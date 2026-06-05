@@ -51,9 +51,9 @@ No external dependencies.
 # Usage
 **Distance Conversion**
 ```python
-from distance import km_to_miles
+from distance import kilometer_to_mile
 
-result = km_to_miles(10)
+result = kilometer_to_mile(10)
 
 print(result)
 ```
@@ -64,9 +64,9 @@ Output:
 ---
 **Weight Conversion**
 ```python
-from weight import kg_to_pounds
+from weight import kilogram_to_pound
 
-result = kg_to_pounds(5)
+result = kilogram_to_pound(5)
 
 print(result)
 ```
