@@ -7,7 +7,7 @@ Supports:
 * Weight conversions
 * Temperature conversions
 
-Built as part of my Python learning journey to practice writing reusable, modular code instead of duplicating calculations across projects
+Built as part of my Python learning journey to practice writing reusable, modular code.
 
 ---
 
